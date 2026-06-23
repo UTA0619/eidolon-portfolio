@@ -44,7 +44,9 @@ daily. Pre-launch. Built solo.
 | Enterprise architecture | [Architecture Deep-Dive](./ARCHITECTURE_DEEP_DIVE.md) (C4 + sequences) · [ARCHITECTURE.md](../docs/ARCHITECTURE.md) |
 | Execution quality | [Case Study §4](./CASE_STUDY.md#4-engineering-rigor-the-part-thats-verifiable) (verifiable in tree) |
 | AI product leadership | [Case Study §5](./CASE_STUDY.md#5-ai-product-sense--three-features-that-show-the-thesis-working) |
-| AI governance / systems thinking | [`docs/governance/`](../docs/governance/) · [Case Study §6](./CASE_STUDY.md#6-governance-as-architecture-the-unusual-part) |
+| AI governance / systems thinking | [`docs/governance/`](../docs/governance/) · [Case Study §6](./CASE_STUDY.md#6-governance-as-architecture-the-unusual-part) · [Article: Governance as Code](../content/articles/governance-as-code.md) |
+| Security & threat modeling | [Threat Model](../docs/SECURITY_THREAT_MODEL.md) · [SECURITY.md](../SECURITY.md) |
+| Technical communication | [Content / articles](../content/README.md) — 2 deep-dives grounded in real ADRs |
 | Business & unit economics | [Case Study §7](./CASE_STUDY.md#7-business-model--unit-economics-the-model-stated-as-a-model) |
 
 ---
@@ -59,5 +61,8 @@ clears the bar of *real evidence, not volume*:
 - [x] ADR backfill — 4 new ADRs + index in [`docs/DECISIONS/`](../docs/DECISIONS/README.md) (backend split, AI gateway/routing, governance-as-code, Clean Architecture)
 - [x] [`DEMO.md`](./DEMO.md) — scripted walkthrough + capture plan for the morning-report viral-K funnel *(asset capture pending)*
 - [x] [`recruiter-guide.md`](./recruiter-guide.md) / [`hiring-manager-guide.md`](./hiring-manager-guide.md)
+- [x] [Security & Threat Model](../docs/SECURITY_THREAT_MODEL.md) (STRIDE) + [`SECURITY.md`](../SECURITY.md)
+- [x] [Technical deep-dive articles ×2](../content/README.md) — governance-as-code, AI gateway
+- [ ] Demo GIFs (owner to capture per [`DEMO.md`](./DEMO.md))
 
 > Quantity is the trap. Each item ships only when it adds *signal* a skeptical reader can verify.
