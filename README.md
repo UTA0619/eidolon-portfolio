@@ -5,6 +5,19 @@
 Eidolon is the world's first RPG combining AI-generated dungeons, reality-linked gameplay,
 AI companions, and asynchronous multiplayer — for iOS, Android, and Web (PWA).
 
+> ### 👀 Reviewing this as a recruiter, architect, AI product leader, or investor?
+> **Start with the [Portfolio / Proof Layer →](./portfolio/README.md)** — strategy, C4
+> architecture, ADRs, governance-as-code, and a full product case study, grounded entirely in
+> verifiable artifacts. Suggested order:
+> [Executive Summary](./portfolio/EXECUTIVE_SUMMARY.md) (60 sec) →
+> [Case Study](./portfolio/CASE_STUDY.md) →
+> [Architecture Deep-Dive](./portfolio/ARCHITECTURE_DEEP_DIVE.md) →
+> [Demo](./portfolio/DEMO.md).
+>
+> *Note: this repository is the **documentation & evidence layer**. Product source
+> (app/backend/packages) is kept private; what's here is the strategy, architecture, decisions,
+> and case study. Pre-launch — all revenue/retention figures are targets, never claimed traction.*
+
 ## Architecture
 
 | Layer | Technology |
