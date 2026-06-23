@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📖 Start with the Portfolio / Proof Layer"
+    url: https://github.com/UTA0619/eidolon-portfolio/blob/main/portfolio/README.md
+    about: "Reviewing this project? The case study, architecture, and guides live here."
+  - name: "🏛 Architecture Decision Records"
+    url: https://github.com/UTA0619/eidolon-portfolio/blob/main/docs/DECISIONS/README.md
+    about: "Why the system is shaped the way it is."
