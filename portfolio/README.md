@@ -18,7 +18,8 @@ daily. Pre-launch. Built solo.
 
 | You are a… | Read this first | What you'll verify in ~5 min |
 |---|---|---|
-| **Recruiter / Hiring Manager** | [Case Study §1, §8](./CASE_STUDY.md#1-the-problem-worth-solving) | The bar is high *and* real — clone and check |
+| **Recruiter / Sourcer** | [Recruiter Guide](./recruiter-guide.md) (5-min skim path + pitch) | Role fit, green flags, how to position |
+| **Hiring Manager / Eng Lead** | [Hiring Manager Guide](./hiring-manager-guide.md) (deep read + interview Qs) | What each artifact proves about seniority |
 | **Enterprise Architect / CTO** | [Architecture Deep-Dive](./ARCHITECTURE_DEEP_DIVE.md) (C4 + sequences) + [Case Study §3, §4, §6](./CASE_STUDY.md#3-architecture-at-a-glance) | Separation of concerns, security/cost boundary, governance-as-code |
 | **AI Product Leader** | [Case Study §2, §5](./CASE_STUDY.md#5-ai-product-sense--three-features-that-show-the-thesis-working) | Features mapped to a North-star tree; AI grounded in real user state |
 | **Founder / VC** | [Case Study §2, §7, §9](./CASE_STUDY.md#2-market--strategy--and-a-pivot-i-made-against-myself) + [`docs/strategy/STRATEGY.md`](../docs/strategy/STRATEGY.md) | A de-risked wedge→OS roadmap and a moat that compounds |
@@ -57,6 +58,6 @@ clears the bar of *real evidence, not volume*:
 - [x] [`ARCHITECTURE_DEEP_DIVE.md`](./ARCHITECTURE_DEEP_DIVE.md) — C4 (Context/Container/Component) + sequences + deployment (Mermaid, all 7 diagrams render-validated)
 - [x] ADR backfill — 4 new ADRs + index in [`docs/DECISIONS/`](../docs/DECISIONS/README.md) (backend split, AI gateway/routing, governance-as-code, Clean Architecture)
 - [x] [`DEMO.md`](./DEMO.md) — scripted walkthrough + capture plan for the morning-report viral-K funnel *(asset capture pending)*
-- [ ] `recruiter-guide.md` / `hiring-manager-guide.md`
+- [x] [`recruiter-guide.md`](./recruiter-guide.md) / [`hiring-manager-guide.md`](./hiring-manager-guide.md)
 
 > Quantity is the trap. Each item ships only when it adds *signal* a skeptical reader can verify.
